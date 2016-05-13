@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tlucretiicaride02carugoog_0007.png"; bbox 0 0 3150 4967; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 484 300 2836 1195">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 484 300 2836 1195">
+     <span class='ocr_line' id='line_1_1' title="bbox 485 300 2623 710; baseline -0.013 -77"><span class='ocrx_word' id='word_1_1' title='bbox 485 349 487 353; x_wconf 62' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 615 300 1983 628; x_wconf 54' lang='grc' dir='ltr'><strong>’Τῖῦἓῇᾗι</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2047 404 2623 710; x_wconf 71' lang='lat' dir='ltr'>CARI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 484 759 2836 1195; baseline -0.018 1"><span class='ocrx_word' id='word_1_4' title='bbox 484 921 1491 1195; x_wconf 73' lang='lat' dir='ltr'><strong>RERUM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1580 759 2836 1170; x_wconf 45' lang='lat' dir='ltr'><strong>§ATURA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1038 1285 2298 1684">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1038 1285 2298 1684">
+     <span class='ocr_line' id='line_1_3' title="bbox 1038 1285 2298 1463; baseline -0.011 -8"><span class='ocrx_word' id='word_1_6' title='bbox 1038 1345 1131 1455; x_wconf 88' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_7' title='bbox 1200 1342 1393 1452; x_wconf 85' lang='lat'><strong>113</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1460 1337 1670 1450; x_wconf 86' lang='lat' dir='ltr'><strong>Rl</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1837 1285 2064 1445; x_wconf 73' lang='lat' dir='ltr'><strong>S&#39;E</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2128 1326 2298 1463; x_wconf 82' lang='lat' dir='ltr'><strong>X,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1278 1588 2088 1684; baseline -0.005 0"><span class='ocrx_word' id='word_1_11' title='bbox 1278 1590 1575 1684; x_wconf 88' lang='lat' dir='ltr'><strong>CUM</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1649 1588 2088 1682; x_wconf 85' lang='lat' dir='ltr'><strong>NOTIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 651 1734 2657 1952">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 651 1734 2657 1952">
+     <span class='ocr_line' id='line_1_5' title="bbox 651 1734 2657 1952; baseline -0.017 -16"><span class='ocrx_word' id='word_1_13' title='bbox 651 1734 1588 1934; x_wconf 71' lang='lat' dir='ltr'>“THOMAE</span> <span class='ocrx_word' id='word_1_14' title='bbox 1702 1760 2657 1952; x_wconf 65' lang='lat' dir='ltr'>—cREEcffi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1095 1984 2283 2180">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1095 1984 2283 2180">
+     <span class='ocr_line' id='line_1_6' title="bbox 1095 1984 2283 2180; baseline -0.013 -100"><span class='ocrx_word' id='word_1_15' title='bbox 1095 1996 1416 2096; x_wconf 83' lang='lat' dir='ltr'>Collegii</span> <span class='ocrx_word' id='word_1_16' title='bbox 1456 1989 1821 2180; x_wconf 48' lang='lat' dir='ltr'><strong>Ongmum</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1854 1984 2283 2067; x_wconf 84' lang='lat' dir='ltr'>Animarum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1625 2129 1771 2177; baseline -0.007 -1"><span class='ocrx_word' id='word_1_18' title='bbox 1625 2129 1771 2177; x_wconf 84' lang='lat' dir='ltr'><strong>ocu.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 506 2347 2840 4167">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 506 2347 2840 4167">
+     <span class='ocr_line' id='line_1_8' title="bbox 506 2347 2840 4167; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 506 2347 2840 4167; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 715 4213 2715 4421">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 715 4213 2715 4421">
+     <span class='ocr_line' id='line_1_9' title="bbox 715 4213 2715 4418; baseline -0.013 -98"><span class='ocrx_word' id='word_1_20' title='bbox 715 4220 961 4340; x_wconf 86' lang='lat' dir='ltr'><strong>Apud</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 1036 4220 1773 4418; x_wconf 48' lang='lat' dir='ltr'><strong>EMANUAELEM</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 1852 4213 2715 4315; x_wconf 59' lang='lat' dir='ltr'><strong>Tuumusmm„</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 1554 4345 1969 4421; baseline 0.002 -2"><span class='ocrx_word' id='word_1_23' title='bbox 1554 4345 1969 4421; x_wconf 73' lang='lat' dir='ltr'><strong>Decuv.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
